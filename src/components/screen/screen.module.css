@@ -1,0 +1,9 @@
+
+.image {
+  width: -webkit-fill-available;
+  height: auto;
+  border: 3px solid  #242d3f;
+  border-radius: 8px;
+  
+ 
+}

@@ -1,0 +1,9 @@
+.menu {
+  position: sticky;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 100px; 
+  height: 60px;
+  z-index: 100;
+}

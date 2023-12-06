@@ -1,0 +1,6 @@
+.about_screen_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  gap: 40px;
+}
